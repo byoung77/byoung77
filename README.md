@@ -64,7 +64,7 @@ End-to-end retrieval-augmented generation system with vector search and rerankin
 👉 https://github.com/byoung77/Doctor-Who-Oracle  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/byoung77/Doctor-Who-Oracle/main/Images/Oracle_Tab.png" width="45%">
+  <img src="https://raw.githubusercontent.com/byoung77/Doctor-Who-Oracle/main/Images/Oracle_Tab.png" width="60%">
 </p>
 
 ---
