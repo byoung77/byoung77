@@ -6,8 +6,9 @@ I am an applied mathematician and data scientist with 10+ years of experience de
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/byoung77/GUI-Fractal-Project/main/images/Rainbow_Mand.png" width="600">
+  
+Example output from fractal visualization tool (C/GTK project below)
 </p>
-*Example output from fractal visualization tool (C/GTK project below)*
 
 ---
 
@@ -33,8 +34,11 @@ Layered graph ANN structure inspired by HNSW, emphasizing clarity, experimentati
 
 👉 https://github.com/byoung77/Approximate-Nearest-Neighbors-Project  
 
+<p align="center">
 ![ANN Build Times](https://raw.githubusercontent.com/byoung77/Approximate-Nearest-Neighbors-Project/main/Images/Figure_BuildTimes_Cosine.png)
-*Build Times vs. Dataset Size for ANN System*
+  
+Build Times vs. Dataset Size for ANN System
+</p>
 
 ---
 
@@ -51,6 +55,8 @@ Configurable feedforward neural network implemented from first principles.
 <p align="center">
   <img src="https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_plot.png" width="45%">
   <img src="https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_loss.png" width="45%">
+
+  Neural Net Training Loss for Two Moons Dataset
 </p>
 
 ---
@@ -67,6 +73,8 @@ End-to-end retrieval-augmented generation system with vector search and rerankin
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/byoung77/Doctor-Who-Oracle/main/Images/Oracle_Tab.png" width="60%">
+
+  Dr. Who Oracle Interface
 </p>
 
 ---
