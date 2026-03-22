@@ -35,7 +35,7 @@ Layered graph ANN structure inspired by HNSW, emphasizing clarity, experimentati
 👉 https://github.com/byoung77/Approximate-Nearest-Neighbors-Project  
 
 <p align="center">
-![ANN Build Times](https://raw.githubusercontent.com/byoung77/Approximate-Nearest-Neighbors-Project/main/Images/Figure_BuildTimes_Cosine.png)
+  <img src="https://raw.githubusercontent.com/byoung77/Approximate-Nearest-Neighbors-Project/main/Images/Figure_BuildTimes_Cosine" width="600">
   
 Build Times vs. Dataset Size for ANN System
 </p>
