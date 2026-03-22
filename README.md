@@ -44,7 +44,8 @@ Configurable feedforward neural network implemented from first principles.
 
 👉 https://github.com/byoung77/Neural-Net-Implementation  
 
-![Two Moons](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_plot.png) ![Two Moons Loss](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_loss.png)
+![Two Moons](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_plot.png) 
+![Two Moons Loss](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_loss.png)
 
 ---
 
@@ -58,6 +59,8 @@ End-to-end retrieval-augmented generation system with vector search and rerankin
 
 👉 https://github.com/byoung77/Doctor-Who-Oracle  
 
+![RAG GUI](https://raw.githubusercontent.com/byoung77/Doctor-Who-Oracle/main/Images/Oracle_Tab.png) 
+Images/Oracle_Tab.png
 ---
 
 ### 🌀 Fractal Explorer (C / GTK)  
