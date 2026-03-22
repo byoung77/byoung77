@@ -4,6 +4,8 @@
 
 I am an applied mathematician and data scientist with 10+ years of experience designing quantitative models, building machine learning systems, and working with distributed computing frameworks. My work focuses on connecting mathematical theory with practical implementation, especially in machine learning, probabilistic modeling, and scalable data systems.
 
+![Fractal](https://raw.githubusercontent.com/byoung77/GUI-Fractal-Project/images/Rainbow_Mand.png)
+
 ---
 
 ## 🔍 Current Focus
