@@ -42,10 +42,12 @@ Configurable feedforward neural network implemented from first principles.
 - Designed modular training loop with support for classification and regression  
 - Trained model exposed as a reusable callable class  
 
-👉 https://github.com/byoung77/Neural-Net-Implementation  
+👉 https://github.com/byoung77/Neural-Net-Implementation 
 
-![Two Moons](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_plot.png) 
-![Two Moons Loss](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_loss.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_plot.png" width="45%">
+  <img src="https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_loss.png" width="45%">
+</p>
 
 ---
 
