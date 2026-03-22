@@ -115,7 +115,7 @@ I focus on:
 
 ## 📫 Contact
 
-- Email: bojy77@gmail.com  
+- Email: [bojy77@gmail.com](mailto:bojy77@gmail.com) 
 - GitHub: https://github.com/byoung77  
 
 ---
