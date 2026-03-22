@@ -30,6 +30,8 @@ Layered graph ANN structure inspired by HNSW, emphasizing clarity, experimentati
 
 👉 https://github.com/byoung77/Approximate-Nearest-Neighbors-Project  
 
+![ANN Build Times](https://raw.githubusercontent.com/byoung77/Approximate-Nearest-Neighbors-Project/main/Images/Figure_BuildTimes_Cosine.png)
+
 ---
 
 ### 🧠 Neural Network (NumPy, From Scratch)  
