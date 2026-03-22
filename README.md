@@ -7,6 +7,7 @@ I am an applied mathematician and data scientist with 10+ years of experience de
 <p align="center">
 <img src="https://raw.githubusercontent.com/byoung77/GUI-Fractal-Project/main/images/Rainbow_Mand.png" width="600">
 </p>
+*Example output from fractal visualization tool (C/GTK project below)*
 
 ---
 
@@ -33,6 +34,7 @@ Layered graph ANN structure inspired by HNSW, emphasizing clarity, experimentati
 👉 https://github.com/byoung77/Approximate-Nearest-Neighbors-Project  
 
 ![ANN Build Times](https://raw.githubusercontent.com/byoung77/Approximate-Nearest-Neighbors-Project/main/Images/Figure_BuildTimes_Cosine.png)
+*Build Times vs. Dataset Size for ANN System*
 
 ---
 
