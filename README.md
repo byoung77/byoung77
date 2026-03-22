@@ -6,6 +6,8 @@ I am an applied mathematician and data scientist with 10+ years of experience de
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/byoung77/GUI-Fractal-Project/main/images/Rainbow_Mand.png" width="600">
+</p>
+<p align="center">
 Example output from fractal visualization tool (C/GTK project below)
 </p>
 
