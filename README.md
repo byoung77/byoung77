@@ -44,6 +44,8 @@ Configurable feedforward neural network implemented from first principles.
 
 👉 https://github.com/byoung77/Neural-Net-Implementation  
 
+![Two Moons](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_plot.png) ![Two Moons Loss](https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_loss.png)
+
 ---
 
 ### 📚 Doctor Who Oracle (RAG System)  
