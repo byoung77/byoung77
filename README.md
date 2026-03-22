@@ -36,8 +36,9 @@ Layered graph ANN structure inspired by HNSW, emphasizing clarity, experimentati
 👉 https://github.com/byoung77/Approximate-Nearest-Neighbors-Project  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/byoung77/Approximate-Nearest-Neighbors-Project/main/Images/Figure_BuildTimes_Cosine" width="600">
-  
+  <img src="https://raw.githubusercontent.com/byoung77/Approximate-Nearest-Neighbors-Project/main/Images/Figure_BuildTimes_Cosine.png" width="600">
+</p>
+<p align="center">
 Build Times vs. Dataset Size for ANN System
 </p>
 
@@ -56,7 +57,8 @@ Configurable feedforward neural network implemented from first principles.
 <p align="center">
   <img src="https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_plot.png" width="45%">
   <img src="https://raw.githubusercontent.com/byoung77/Neural-Net-Implementation/main/Images/test_moons_large_loss.png" width="45%">
-
+</p>
+<p align="center">
   Neural Net Training Loss for Two Moons Dataset
 </p>
 
