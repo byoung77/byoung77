@@ -88,11 +88,11 @@ End-to-end retrieval-augmented generation system with vector search and rerankin
 An interactive Python implementation of the classic *Lights Out* puzzle, extended with multiple algebraic state spaces and nontrivial topological grids.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/byoung77/lights-out/images/launch_window.png" width="25%" />
-  <img src="https://raw.githubusercontent.com/byoung77/lights-out/images/sample_game_grid.png" width="25%" />
+  <img src="https://raw.githubusercontent.com/byoung77/lights-out/main/images/launch_window.png" width="25%" />
+  <img src="https://raw.githubusercontent.com/byoung77/lights-out/main/images/sample_game_grid.png" width="25%" />
 </p>
 
-👉 https://github.com/byoung77/committee-appeals-db 
+👉 https://github.com/byoung77/lights-out
 
 ---
 
