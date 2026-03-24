@@ -83,7 +83,7 @@ End-to-end retrieval-augmented generation system with vector search and rerankin
 
 ---
 
-### Lights Out
+### 💡 Lights Out
 
 An interactive Python implementation of the classic *Lights Out* puzzle, extended with multiple algebraic state spaces and nontrivial topological grids.
 
