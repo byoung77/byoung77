@@ -83,6 +83,14 @@ End-to-end retrieval-augmented generation system with vector search and rerankin
 
 ---
 
+### 💾 Committee Appeals Database 
+
+Built a Python/MySQL/LaTeX system to replace fragmented committee records stored across multiple documents, enabling searchable history and automated generation of professional PDF reports.
+
+👉 https://github.com/byoung77/committee-appeals-db  
+
+---
+
 ### 🌀 Fractal Explorer (C / GTK)  
 Interactive fractal visualization tool built in C.
 
