@@ -63,6 +63,7 @@ Configurable feedforward neural network implemented from first principles.
 </p>
 
 ---
+
 ### 🖧 Simulated CRAQ Server
 Go-based distributed systems simulation of Chain Replication with Asynchronous Queries (CRAQ), emphasizing message-passing concurrency, observability, and interactive exploration.
 
@@ -79,6 +80,7 @@ Go-based distributed systems simulation of Chain Replication with Asynchronous Q
 <p align="center">
   CRAQ Simulation Architecture
 </p>
+
 ---
 
 ### 📚 Doctor Who Oracle (RAG System)  
