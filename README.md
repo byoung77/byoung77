@@ -63,6 +63,23 @@ Configurable feedforward neural network implemented from first principles.
 </p>
 
 ---
+### 🖧 Simulated CRAQ Server
+Go-based distributed systems simulation of Chain Replication with Asynchronous Queries (CRAQ), emphasizing message-passing concurrency, observability, and interactive exploration.
+
+- Message-passing architecture using goroutines and channels
+- Chain replication with versioning, commit propagation, and dirty-state tracking
+- Deferred-read design for dirty entries (waitlist-based instead of tail forwarding)
+- Interactive REPL with real-time monitoring via per-node log files
+
+👉 https://github.com/byoung77/Simulated-CRAQ-Server
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/byoung77/Simulated-CRAQ-Server/main/images/Simple_CRAQ_Simulation.png" width="45%">
+</p>
+<p align="center">
+  CRAQ Simulation Architecture
+</p>
+---
 
 ### 📚 Doctor Who Oracle (RAG System)  
 End-to-end retrieval-augmented generation system with vector search and reranking.
