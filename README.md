@@ -51,16 +51,6 @@ I build things from first principles to understand core mechanics, bridge mathem
 
 ---
 
-## 🔍 Recent Projects
-
-- Approximate Nearest Neighbor (ANN) algorithms  
-- Retrieval-Augmented Generation (RAG) systems  
-- Bayesian modeling and change point detection  
-- Distributed computing (Hadoop, Spark)  
-- From-scratch implementations of machine learning algorithms  
-
----
-
 ## 🚀 Featured Projects
 
 ### 📈 HDP-HMM with Topological Emissions (Julia)  
