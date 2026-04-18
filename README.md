@@ -13,6 +13,24 @@ Example output from fractal visualization tool (C/GTK project below)
 
 ---
 
+## 🎓 Background
+
+- **Ph.D., Mathematics** — Rutgers University (2011)
+- **M.S., Data Science** — Fordham University (2025)
+- **M.S., Mathematics** — University of North Carolina – Wilmington (2005)
+- **B.S., Physics** — University of North Carolina – Chapel Hill (1999)
+- **Associate Professor of Mathematics**, Wilkes University (2015–Present)
+- **Postdoctoral Researcher** — Universität zu Köln (2012–2014)
+
+
+---
+
+## 🎯 Approach
+
+I build things from first principles to understand core mechanics, bridge mathematical theory and practical implementation, and evaluate tradeoffs through experimentation. I am particularly interested in problems that require both rigorous mathematical thinking and careful engineering judgment.
+
+---
+
 ## 📄 Publications
 
 - Young, B. and Zhao, Y., "Change Point Detection via Hierarchical Dirichlet Process Hidden Markov Models with Topological Emissions," MS Thesis, Fordham University (2025). Submitted for publication.
@@ -176,24 +194,6 @@ Interactive fractal visualization tool built in C using GTK, for exploring compl
 - Optimized for performance in C, enabling high-resolution real-time renderin 
 
 👉 https://github.com/byoung77/GUI-Fractal-Project  
-
----
-
-## 🎓 Background
-
-- **Ph.D., Mathematics** — Rutgers University (2011)
-- **M.S., Data Science** — Fordham University (2025)
-- **M.S., Mathematics** — University of North Carolina – Wilmington (2005)
-- **B.S., Physics** — University of North Carolina – Chapel Hill (1999)
-- **Associate Professor of Mathematics**, Wilkes University (2015–Present)
-- **Postdoctoral Researcher** — Universität zu Köln (2012–2014)
-
-
----
-
-## 🎯 Approach
-
-I build things from first principles to understand core mechanics, bridge mathematical theory and practical implementation, and evaluate tradeoffs through experimentation. I am particularly interested in problems that require both rigorous mathematical thinking and careful engineering judgment.
 
 ---
 
