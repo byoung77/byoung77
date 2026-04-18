@@ -25,8 +25,8 @@ Example output from fractal visualization tool (C/GTK project below)
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, Julia, Go, C, Mathematica
-**Machine Learning:** Bayesian modeling, HMMs, clustering, topological data analysis, neural networks, RAG systems  
+**Programming:** Python, Julia, Go, C, Mathematica  
+**Machine Learning:** Bayesian modeling, HMMs, clustering, topological data analysis, neural networks, RAG systems
 **Data Science:** NumPy, pandas, scikit-learn, PyTorch, SQL
 **Data & Distributed Systems:** Hadoop, Spark, MapReduce  
 **Tools:** Git, Linux, LaTeX  
