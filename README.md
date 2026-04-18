@@ -197,6 +197,18 @@ Interactive fractal visualization tool built in C using GTK, for exploring compl
 
 ---
 
+### 📖 Mathematical Modeling — Course Textbook (LaTeX)
+Complete undergraduate textbook covering calculus, differential equations, linear algebra, dynamical systems, probability, and stochastic processes. Developed for classroom use at Wilkes University and refined across multiple course offerings.
+
+- Covers a full two-semester sequence integrating calculus, linear algebra, ODEs, and probability with a unified modeling perspective 
+- Emphasizes connections between mathematical theory and real-world systems throughout 
+- Includes worked examples, problem sets with selected solutions, and supporting appendices 
+- Written entirely in LaTeX; full PDF available in repository 
+
+👉 https://github.com/byoung77/Mathematical-Modeling-Notes
+
+---
+
 ## 📫 Contact
 
 - Email: [bojy77@gmail.com](mailto:bojy77@gmail.com)
