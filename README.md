@@ -51,7 +51,7 @@ I build things from first principles to understand core mechanics, bridge mathem
 
 ---
 
-## 🔍 Current Focus
+## 🔍 Recent Projects
 
 - Approximate Nearest Neighbor (ANN) algorithms  
 - Retrieval-Augmented Generation (RAG) systems  
@@ -120,7 +120,7 @@ Go-based distributed systems simulation of Chain Replication with Asynchronous Q
 
 - Message-passing architecture using goroutines and channels
 - Chain replication with versioning, commit propagation, and dirty-state tracking
-- Deferred-read design for dirty entries (waitlist-based instead of tail forwarding)
+- Deferred-read mechanism using per-key waitlists as a pragmatic alternative to tail forwarding, reducing protocol complexity while preserving consistency guarantees
 - Interactive REPL with real-time monitoring via per-node log files
 
 👉 https://github.com/byoung77/Simulated-CRAQ-Server
@@ -191,7 +191,7 @@ Interactive fractal visualization tool built in C using GTK, for exploring compl
 - Mandelbrot and Julia sets with real-time zoom and navigation
 - User-defined complex function exploration
 - Iterative numerical algorithms for orbit computation and escape-time analysis
-- Optimized for performance in C, enabling high-resolution real-time renderin 
+- Optimized for performance in C, enabling high-resolution real-time rendering 
 
 👉 https://github.com/byoung77/GUI-Fractal-Project  
 
@@ -199,7 +199,8 @@ Interactive fractal visualization tool built in C using GTK, for exploring compl
 
 ## 📫 Contact
 
-- Email: [bojy77@gmail.com](mailto:bojy77@gmail.com) 
+- Email: [bojy77@gmail.com](mailto:bojy77@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/brent-young-6057b0b5/ 
 - GitHub: https://github.com/byoung77  
 
 ---
