@@ -23,6 +23,16 @@ Example output from fractal visualization tool (C/GTK project below)
 
 ---
 
+## 🛠️ Technical Skills
+
+**Programming:** Python, Julia, Go, C, Mathematica
+**Machine Learning:** Bayesian modeling, HMMs, clustering, topological data analysis, neural networks, RAG systems  
+**Data Science:** NumPy, pandas, scikit-learn, PyTorch, SQL
+**Data & Distributed Systems:** Hadoop, Spark, MapReduce  
+**Tools:** Git, Linux, LaTeX  
+
+---
+
 ## 🔍 Current Focus
 
 - Approximate Nearest Neighbor (ANN) algorithms  
@@ -166,24 +176,6 @@ Interactive fractal visualization tool built in C using GTK, for exploring compl
 - Optimized for performance in C, enabling high-resolution real-time renderin 
 
 👉 https://github.com/byoung77/GUI-Fractal-Project  
-
----
-
-## 🛠️ Technical Skills
-
-**Programming:** Python, Julia, Go, C  
-**Machine Learning:** Bayesian modeling, HMMs, clustering, topological data analysis, neural networks  
-**Data & Distributed Systems:** Hadoop, Spark, MapReduce  
-**Tools:** Git, Linux, LaTeX  
-
----
-
-## 🧪 Selected Work
-
-- Built and deployed distributed analytics experiments on an 8-node Hadoop/Spark cluster  
-- Designed Bayesian nonparametric change-point detection model (HDP-HMM)  
-- Implemented machine learning systems from first principles  
-- Developed retrieval-augmented generation (RAG) system with GUI interface  
 
 ---
 
