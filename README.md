@@ -2,7 +2,7 @@
 
 **Applied Mathematics | Data Science | Machine Learning Systems**
 
-I am an applied mathematician and data scientist with a PhD in Mathematics from Rutgers University and an MS in Data Science from Fordham University and 10+ years of experience designing quantitative models, building machine learning systems, and working with distributed computing frameworks. My work connects mathematical theory with practical implementation — particularly in probabilistic modeling, machine learning, and scalable computational systems. I have published research in mathematical physics and machine learning, and I am actively seeking industry roles in applied mathematics, data science, and ML research.
+I am an applied mathematician and data scientist with a PhD in Mathematics from Rutgers University and an MS in Data Science from Fordham University and 10+ years of experience designing quantitative models, building machine learning systems, and working with distributed computing frameworks. My work connects mathematical theory with practical implementation — particularly in probabilistic modeling, machine learning, and scalable computational systems. I have published research in mathematical physics and machine learning.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/byoung77/GUI-Fractal-Project/main/images/Rainbow_Mand.png" width="600">
